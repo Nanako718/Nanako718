@@ -1,4 +1,4 @@
-# 👋 你好，我是 [你的名字]
+# 👋 你好，我是 [DTZSGHNR]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=热爱编程的软件开发工程师;Always+learning+new+things" alt="Typing SVG" />
