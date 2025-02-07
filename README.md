@@ -41,13 +41,6 @@
   <img src="https://ghchart.rshah.org/7c4DFF/Nanako718" alt="Nanako718's Github chart" />
 </p>
 
-## 🏆 最近项目
-
-<!-- 在这里列出你的置顶项目 -->
-- [项目1](链接) - 简短描述
-- [项目2](链接) - 简短描述
-- [项目3](链接) - 简短描述
-
 ## 🤝 社交链接
 
 <p align="center">
